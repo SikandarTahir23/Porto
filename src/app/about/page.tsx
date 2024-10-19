@@ -18,7 +18,7 @@ const About: NextPage = () => {
                     I am Sikandar Tahir a <span>Full-Stack Developer</span>
                   </h2>
                   <p>
-                  Hi! My name is Sikandar Tahir. I am a Full-stack Developer, UI/UX Designer, and Chatbot Integrator, and I am very passionate and dedicated to my work. With 1 year of experience in these fields, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion to collaboration.
+                  I am a dedicated Full-stack Developer, UI/UX Designer, and Chatbot Integrator with one year of experience. I specialize in creating responsive, user-friendly applications and enjoy every step of the development process, from concept to collaboration, ensuring project success.
                   </p>
                 </div>
               </div>
@@ -27,7 +27,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="info-item padd-15">
                       <p>
-                        Website : <span>www.sikandarfolio.com</span>
+                        Website : <span>www.folio.com</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -81,6 +81,13 @@ const About: NextPage = () => {
                       <h5>Html5</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">85%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>TailwindCSS</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
                         <div className="skill-percent">80%</div>
                       </div>
                     </div>
@@ -102,7 +109,7 @@ const About: NextPage = () => {
                       <h5>Chatbot Integration</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
-                        <div className="skill-percent">70%</div>
+                        <div className="skill-percent">75%</div>
                       </div>
                     </div>
                   </div>
