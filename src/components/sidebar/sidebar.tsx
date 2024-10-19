@@ -51,17 +51,13 @@ const Sidebar = () => {
           </li>
           <li onClick={handleClose}>
             <Link
-              href="/portfolio"
-              className={`${pathUrl == "/portfolio" && "active"}`}
+              href="/projects"
+              className={`${pathUrl == "/projects" && "active"}`}
             >
-              <i className="fa fa-briefcase" /> Portfolio
+              <i className="fa fa-briefcase" /> Projects
             </Link>
           </li>
-          <li onClick={handleClose}>
-            <Link href="/blog" className={`${pathUrl == "/blog" && "active"}`}>
-              <i className="fa fa-envelope" /> Blog
-            </Link>
-          </li>
+          
           <li onClick={handleClose}>
             <Link
               href="/contact"
@@ -73,8 +69,8 @@ const Sidebar = () => {
         </ul>
         <div className="copyright">
           Created with ❤️ By{" "}
-          <a href="http://alsiam.com" target="_blank" rel="noopener noreferrer">
-            Al Siam
+          <a href="/" target="_blank" rel="noopener noreferrer">
+            Sikandar Tahir
           </a>
         </div>
       </div>

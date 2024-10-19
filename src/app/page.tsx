@@ -9,7 +9,7 @@ export default async function Home() {
           <div className="container">
             <div className="intro">
               <img
-                src="/imgs/alsiam.png"
+                src="/imgs/my.png"
                 alt="Al Siam Profile"
                 className="shadow-dark"
               />
@@ -26,19 +26,16 @@ export default async function Home() {
                 />
               </p>
               <div className="social-links">
-                <a href="https://twitter.com/" target="_blank">
-                  <i className="fa fa-twitter" />
-                </a>
-                <a href="https://facebook.com/" target="_blank">
+                <a href="https://www.facebook.com/Arain.Boyz380?mibextid=ZbWKwL" target="_blank">
                   <i className="fa fa-facebook" />
                 </a>
-                <a href="https://github.com/" target="_blank">
+                <a href="https://github.com/SikandarTahir23" target="_blank">
                   <i className="fa fa-github" />
                 </a>
-                <a href="https://instagram.com/" target="_blank">
+                <a href="https://www.instagram.com/mrr_sikki?igsh=MTBzMnVhMjB0MmZiMg==" target="_blank">
                   <i className="fa fa-instagram" />
                 </a>
-                <a href="https://linkedin.com/in/" target="_blank">
+                <a href="https://www.linkedin.com/in/sikandar-tahir-356a56273/" target="_blank">
                   <i className="fa fa-linkedin" />
                 </a>
               </div>
