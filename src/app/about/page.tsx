@@ -88,7 +88,7 @@ const About: NextPage = () => {
                       <h5>TailwindCSS</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "80%" }} />
-                        <div className="skill-percent">80%</div>
+                        <div className="skill-percent">85%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
