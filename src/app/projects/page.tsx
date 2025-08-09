@@ -18,45 +18,7 @@ const Projects: NextPage = () => {
             </div>
           </div>
           <div className="row">
-            {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/projects/pro1.png" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Github Search App</h4>
-                  <p>Creating responsive and visually appealing web interfaces.
-                    Search your Github Repo by username
-                  </p>
-                  <div className="icon">
-                    <a href="https://search-git-hub-profile.vercel.app/" className="live-preview">
-                      <i className="fa fa-eye"></i> 
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            {/* Portfolio Item End*/}
-            {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                  <img src="/imgs/projects/bike.png" alt="portfolio" />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Bike E-shop</h4>
-                  <p>Creating responsive and visually appealing Bike E-shop with 
-                    Chatbot Inetgartion.</p>
-                  <div className="icon">
-                    <a href="https://bikes-shop-one.vercel.app/" className="live-preview">
-                      <i className="fa fa-eye"></i> 
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            {/* Portfolio Item End*/}
+
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
@@ -65,11 +27,11 @@ const Projects: NextPage = () => {
                 </div>
                 <div className="portfolio-info">
                   <h4>Flight Booking Web</h4>
-                  <p>Creating responsive and visually appealing web interfaces Flight Booking 
+                  <p>Creating responsive and visually appealing web interfaces Flight Booking
                     Website with Chatbot Integration.</p>
                   <div className="icon">
                     <a href="https://flight-booking-ai-assistant.vercel.app/" className="live-preview">
-                      <i className="fa fa-eye"></i> 
+                      <i className="fa fa-eye"></i>
                     </a>
                   </div>
                 </div>
@@ -96,18 +58,19 @@ const Projects: NextPage = () => {
               </div>
             </div>
             {/* Portfolio Item End*/}
+
             {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="wordpress">
+            <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/projects/img.png" alt="portfolio" />
+                  <img src="/imgs/projects/Hekto.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Image Search App</h4>
-                  <p>Creating responsive and visually appealing web interfaces Image Search App
-                  by API fetching</p>
+                  <h4>Hekto Store</h4>
+                  <p>A responsive e-commerce platform replicating the features and functionality of Hekto.</p>
+
                   <div className="icon">
-                    <a href="https://image-search-five-lemon.vercel.app/" className="live-preview">
+                    <a href="https://uf-hekto.vercel.app/" className="live-preview">
                       <i className="fa fa-eye"></i>
                     </a>
                   </div>
@@ -119,14 +82,53 @@ const Projects: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/projects/daraz.png" alt="portfolio" />
+                  <img src="/imgs/projects/aw.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Daraz Store (Clone)</h4>
-                  <p> A responsive e-commerce platform replicating the features and functionality of Daraz.</p>
+                  <h4>Agentis World</h4>
+                  <p> A modern, responsive website showcasing Agentis World’s vision, services, and innovations, built for a seamless and engaging user experience.</p>
+
                   <div className="icon">
-                    <a href="https://sikandar-daraz-clone.vercel.app/" className="live-preview">
-                      <i className="fa fa-eye"></i> 
+                    <a href="https://st-agentia-world.vercel.app/" className="live-preview">
+                      <i className="fa fa-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* Portfolio Item End*/}
+            {/* Portfolio Item */}
+            <div className="portfolio-item padd-15" data-category="web-design">
+              <div className="portfolio-item-inner shadow-dark">
+                <div className="portfolio-img">
+                  <img src="/imgs/projects/aic.png" alt="portfolio" />
+                </div>
+                <div className="portfolio-info">
+                  <h4> AI Assistant Chatbot</h4>
+                  <p>An advanced AI assistant chatbot developed using Python and Agentic SDK, integrated into a Streamlit application for a smooth, interactive web experience</p>
+
+                  <div className="icon">
+                    <a href="https://uf-hekto.vercel.app/" className="live-preview">
+                      <i className="fa fa-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {/* Portfolio Item End*/}
+            {/* Portfolio Item */}
+            <div className="portfolio-item padd-15" data-category="web-design">
+              <div className="portfolio-item-inner shadow-dark">
+                <div className="portfolio-img">
+                  <img src="/imgs/projects/Medical AI.png" alt="portfolio" />
+                </div>
+                <div className="portfolio-info">
+                  <h4>AI-Powered Medical Assistant</h4>
+                  <p>I developed an AI Medical Assistant using Python, Streamlit, and the Agentic SDK, capable of providing intelligent, conversational medical support with a user-friendly interface.</p>
+
+                  <div className="icon">
+                    <a href="https://st-medical-assistant.streamlit.app/" className="live-preview">
+                      <i className="fa fa-eye"></i>
                     </a>
                   </div>
                 </div>

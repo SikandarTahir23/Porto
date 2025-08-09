@@ -15,11 +15,10 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Sikandar Tahir a <span>Full-Stack Developer</span>
+                    I am Sikandar Tahir a <span>Full-Stack Web Developer | UI/UX Designer | AI Chatbot Specialist.</span>
                   </h2>
                   <p>
-                  I am a dedicated Full-stack Developer, UI/UX Designer, and Chatbot Integrator with one year of experience. I specialize in creating responsive, user-friendly applications and enjoy every step of the development process, from concept to collaboration, ensuring project success.
-                  </p>
+                    I’m a Full-Stack Developer, UI/UX Designer, and AI Chatbot Specialist with 1+ year of hands-on experience building scalable, responsive, and user-focused applications. I excel at transforming ideas into high-performance digital solutions — from concept and design to development and deployment. My expertise spans modern web frameworks, clean UI/UX design, and intelligent chatbot integrations, ensuring every project is functional, visually appealing, and impactful.  </p>
                 </div>
               </div>
               <div className="row">
@@ -94,22 +93,29 @@ const About: NextPage = () => {
                     <div className="skill-item padd-15">
                       <h5>Javascript/Typescript</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "60%" }} />
+                        <div className="progress-in" style={{ width: "80%" }} />
                         <div className="skill-percent">80%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Nextjs/Reactjs</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "50%" }} />
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>Python</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "70%" }} />
                         <div className="skill-percent">70%</div>
                       </div>
                     </div>
                     <div className="skill-item padd-15">
                       <h5>Chatbot Integration</h5>
                       <div className="progress">
-                        <div className="progress-in" style={{ width: "70%" }} />
-                        <div className="skill-percent">75%</div>
+                        <div className="progress-in" style={{ width: "90%" }} />
+                        <div className="skill-percent">90%</div>
                       </div>
                     </div>
                   </div>
@@ -128,10 +134,10 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2023 to Present
                           </h6>
                           <h4 className="timeline-title">
-                            BS Computer Science
+                            University of Karachi
                           </h4>
                           <p className="timeline-text">
-                            Since 2023 I started my Bachlor&apos;s in Computer Science from University Of Karachi.
+                            Pursuing a Bachelor&apos;s degree in Computer Science with a focus on software development, algorithms, and modern web technologies.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -142,10 +148,10 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2024 to Present
                           </h6>
                           <h4 className="timeline-title">
-                            GenAI , Web 3.0 , Metaverse
+                            Governor Sindh Initiative (GIAIC)
                           </h4>
                           <p className="timeline-text">
-                            From 2024 I started my journey in the field of Modern technology from Governor Sindh Initiative (GIAIC)
+                           Learning cutting-edge technologies including Generative AI, blockchain-based Web 3.0, and immersive Metaverse development.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -153,13 +159,13 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2024 to Persent
+                            <i className="fa fa-calendar" />Aug 2024 – Jan 2025
                           </h6>
                           <h4 className="timeline-title">
-                            Chatbot Integration
+                            Saylani Mass IT Training (SMIT)
                           </h4>
                           <p className="timeline-text">
-                            In Aug 2024 I started learning about Chatbot Integration from Saylani Mass IT (SMIT). For enhance user friendly Interaction
+                            Completed a specialized program in developing and integrating intelligent chatbots to create seamless, interactive user experiences.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -180,7 +186,11 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Backend Developer</h4>
                           <p className="timeline-text">
-                          Since 2023, I have been working as a Backend Developer, focusing on building efficient, scalable server-side applications. 
+                            Developed and maintained efficient, scalable server-side applications using JavaScript/TypeScript.
+
+                            Built REST APIs and integrated them with multiple frontend platforms.
+
+                            Optimized backend processes to improve performance and reduce response time.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -192,7 +202,11 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Frontend Developer</h4>
                           <p className="timeline-text">
-                          Currently I have also been enhancing my frontend expertise, working extensively with HTML and Tailwind CSS.
+                            Designed responsive, user-friendly interfaces using HTML, CSS, and Tailwind CSS.
+
+                            Implemented interactive features and animations to enhance user experience.
+
+                            Collaborated with designers to ensure pixel-perfect UI implementation.
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -204,7 +218,11 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Chatbot Integartion</h4>
                           <p className="timeline-text">
-                          I&apos;m proficient in chatbot integration, creating intelligent, interactive solutions that enhance user engagement and automate support processes.
+                            Integrated Dialogflow, Flowise, OpenAI, and Gemini AI into websites and apps.
+
+                            Created intelligent, conversational chatbots with voice and web-based support.
+
+                            Automated customer engagement and support processes, improving efficiency.
                           </p>
                         </div>
                         {/* Timeline Item end */}

@@ -16,7 +16,7 @@ export default async function Home() {
               <h1>Sikandar Tahir</h1>
               <p>
                 <Typewriter
-                  words={['Full-stack Developer', 'UI/UX Designer', 'Chatbot Integrator']}
+                  words={['Full-Stack Developer', 'UI/UX Designer', 'Chatbot Integrator' , 'LLM AI Specialist']}
                   loop={false}
                   cursor
                   cursorStyle="_"
